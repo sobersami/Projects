@@ -21,9 +21,3 @@
 
 [linkedin]: https://www.linkedin.com/in/shahriar-rahman-2b417a203/
 
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
